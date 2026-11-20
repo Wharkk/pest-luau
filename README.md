@@ -1,3 +1,5 @@
+> **Project context:** I built Pest Luau because I liked PestPHP’s testing syntax and wanted something similar for Roblox. At the time, I wasn’t familiar with Jest or TestEZ in the Roblox ecosystem. I’ve since adopted Jest for my current projects, but keep this repository as an earlier tooling project.
+
 # 🧪 Pest for Luau
 
 **The elegant testing framework for Roblox development.**
